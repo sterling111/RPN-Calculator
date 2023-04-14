@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RPN Calculator</string>
+    <string name="bumodulus">%</string>
+    <string name="budivide">÷</string>
+    <string name="buplus">+</string>
+    <string name="bumultiply">×</string>
+    <string name="buminus">-</string>
+    <string name="buzero">0</string>
+    <string name="buone">1</string>
+    <string name="butwo">2</string>
+    <string name="buthree">3</string>
+    <string name="bufour">4</string>
+    <string name="bufive">5</string>
+    <string name="busix">6</string>
+    <string name="buseven">7</string>
+    <string name="bueight">8</string>
+    <string name="bunine">9</string>
+    <string name="buAC">AC</string>
+    <string name="buC">C</string>
+    <string name="enter">enter</string>
+    <string name="squareroot">sqrt</string>
+    <string name="simpleinterest">Si</string>
+    <string name="minimum">MIN</string>
+    <string name="maximum">MAX</string>
+    <string name="power">POW</string>
+    <string name="inverse">1/X</string>
+</resources>
